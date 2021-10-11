@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const translator = require('@k3rn31p4nic/google-translate-api');
+const translator = require('@vitalets/google-translate-api');
 
 /**
  * Summarize text according to target number of lines and translate to any language
