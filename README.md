@@ -22,7 +22,7 @@ You can just simply call the function and get the summary of the text without pa
 
 ```javascript
 
-const summarize = require("text-summarize");
+const summarize = require("text-summarisation");
 
 const text = "Alice and Bob are friends. Alice is fun and cuddly. Bob is cute and quirky. Together they go on wonderful adventures in the land of tomorrow. Alice's cuddliness and Bob's cuteness allow them to reach their goals. But before they get to them, they have to go past their mortal enemy — Mr. Boredom. He is ugly and mean. They will surely defeat him. He is no match for their abilities.";
 
@@ -36,7 +36,7 @@ You can pass custom target sentence that you want after summarize the text.
 
 ```javascript
 
-const summarize = require("text-summarize");
+const summarize = require("text-summarisation");
 
 const text = "Alice and Bob are friends. Alice is fun and cuddly. Bob is cute and quirky. Together they go on wonderful adventures in the land of tomorrow. Alice's cuddliness and Bob's cuteness allow them to reach their goals. But before they get to them, they have to go past their mortal enemy — Mr. Boredom. He is ugly and mean. They will surely defeat him. He is no match for their abilities.";
 
@@ -49,7 +49,7 @@ You can pass language to translate the summarized text.
 
 ```javascript
 
-const summarize = require("text-summarize");
+const summarize = require("text-summarisation");
 
 const text = "Alice and Bob are friends. Alice is fun and cuddly. Bob is cute and quirky. Together they go on wonderful adventures in the land of tomorrow. Alice's cuddliness and Bob's cuteness allow them to reach their goals. But before they get to them, they have to go past their mortal enemy — Mr. Boredom. He is ugly and mean. They will surely defeat him. He is no match for their abilities.";
 
