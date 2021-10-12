@@ -1,3 +1,5 @@
+# ONLY FIX ERROR :)
+
 # Summarize Texts
 This package can be used to summarize longs texts to custom summarized sentence.
 
@@ -6,12 +8,12 @@ This package can be used to summarize longs texts to custom summarized sentence.
 ## install the package
 ### using npm
 ```
-npm install text-summarize
+npm install text-summarisation
 ```
 ### using yarn
 
 ```
-yarn add text-summarize
+yarn add text-summarisation
 ```
 
 ## Usage
